@@ -1,2 +1,2 @@
 # Real Estate Website
-[wewbsite link](https://real-estate-lh8.pages.dev/)
+[website link](https://real-estate-lh8.pages.dev/)
